@@ -1,9 +1,9 @@
 window.$docsify = {
   name: "CSS Tricks",
-  repo: "https://github.com/l-hammer/You-need-to-know-css",
+  repo: "https://github.com/mcdulldd/CSS-Tricks",
   auto2top: true,
   loadSidebar: true,
-	loadNavbar: true,
+	// loadNavbar: true,
   mergeNavbar: true,
   subMaxLevel: 2,
   homepage: "README.md",
